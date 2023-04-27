@@ -11,7 +11,7 @@ require (
 	github.com/cucumber/godog v0.0.0-00010101000000-000000000000
 	github.com/distribution/distribution/v3 v3.0.0-20230214150026-36d8c594d7aa
 	github.com/docker/buildx v0.10.3 // when updating, also update the replace rules accordingly
-	github.com/docker/cli v23.0.1+incompatible
+	github.com/docker/cli v23.0.5+incompatible
 	github.com/docker/cli-docs-tool v0.5.1
 	github.com/docker/docker v23.0.1+incompatible
 	github.com/docker/go-connections v0.4.0
