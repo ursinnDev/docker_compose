@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.6
 	github.com/buger/goterm v1.0.4
-	github.com/compose-spec/compose-go v1.13.0
+	github.com/compose-spec/compose-go v1.14.0
 	github.com/containerd/console v1.0.3
 	github.com/containerd/containerd v1.6.19
 	github.com/cucumber/godog v0.0.0-00010101000000-000000000000
@@ -34,7 +34,7 @@ require (
 	github.com/theupdateframework/notary v0.7.0
 	github.com/tilt-dev/fsnotify v1.4.8-0.20220602155310-fff9c274a375
 	go.opentelemetry.io/otel v1.14.0
-	golang.org/x/sync v0.1.0
+	golang.org/x/sync v0.2.0
 	gopkg.in/yaml.v2 v2.4.0
 	gotest.tools/v3 v3.4.0
 	k8s.io/client-go v0.24.1 // indirect; replaced; see replace for the actual version used
@@ -79,7 +79,7 @@ require (
 	github.com/hashicorp/go-immutable-radix v1.3.1 // indirect
 	github.com/hashicorp/go-memdb v1.3.2 // indirect
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
-	github.com/imdario/mergo v0.3.13 // indirect
+	github.com/imdario/mergo v0.3.15 // indirect
 	github.com/inconshreveable/mousetrap v1.0.1 // indirect
 	github.com/jinzhu/gorm v1.9.11 // indirect
 	github.com/jonboulle/clockwork v0.3.1-0.20230117163003-a89700cec744
