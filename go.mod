@@ -12,7 +12,7 @@ require (
 	github.com/cucumber/godog v0.0.0-00010101000000-000000000000 // replaced; see replace for the actual version used
 	github.com/distribution/distribution/v3 v3.0.0-20230601133803-97b1d649c493
 	github.com/docker/buildx v0.11.1
-	github.com/docker/cli v24.0.4+incompatible
+	github.com/docker/cli v24.0.6+incompatible
 	github.com/docker/cli-docs-tool v0.6.0
 	github.com/docker/docker v24.0.4+incompatible
 	github.com/docker/go-connections v0.4.0
@@ -25,7 +25,7 @@ require (
 	github.com/mattn/go-shellwords v1.0.12
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/moby/buildkit v0.11.0-rc3.0.20230620112432-2d91ddcceedc
-	github.com/moby/patternmatcher v0.5.0
+	github.com/moby/patternmatcher v0.6.0
 	github.com/moby/term v0.5.0
 	github.com/morikuni/aec v1.0.0
 	github.com/opencontainers/go-digest v1.0.0
